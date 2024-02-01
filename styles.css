@@ -1,0 +1,79 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  aside {
+    float: right;
+    width: 30%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    box-sizing: border-box;
+  }
+  
+  h3 {
+    color: #080808;
+    font-weight: bold;
+  }
+  
+  p {
+   
+    margin-bottom: 15px;
+    font-weight: bold;
+ 
+ 
+ 
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  table {
+    width: 50%;
+    margin-left: 1px ;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #333;
+    color: white;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tbody tr:hover {
+    background-color: #d3d3d3;
+  }
+ h3 {
+  margin-top: 20px;
+}
+
+.container {
+    width: 1024px;
+    margin: auto;
+    border-radius: 5px;
+    border-width: 1px solid #bbbbbb;
+    background-color: #dddddd;
+    padding: 10px;
+    height: 1000px;
+    }
+    .container1 {
+        background-color: #333;
+        color: white;
+        width: 1024px;
+        text-align: center;
+        margin: auto;
+      }
